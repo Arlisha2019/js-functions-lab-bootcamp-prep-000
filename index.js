@@ -3,11 +3,11 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Tiffany) {
-  return `Happy holidays, ${name}!`
+  return `"Happy holidays, ${name}!"`
 }
 
 function happyHolidaysTo(Easter, Tiffany) {
-  return `Happy ${hoilday}, ${name}!`
+  return `"Happy ${hoilday}, ${name}!"`
 } 
 
 
